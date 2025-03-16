@@ -106,7 +106,7 @@ button {
 
 .hero-btn:hover,
 .hero-btn:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 
 /* ---------------HERO------------- */
