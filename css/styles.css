@@ -61,13 +61,14 @@ button {
 }
 
 .header-address {
+  font-style: normal;
 }
+
 .header-address-list {
 }
 .header-address-item {
 }
 .header-address-link {
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
