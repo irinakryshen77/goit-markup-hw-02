@@ -30,6 +30,7 @@ button {
   line-height: 1.16667;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  color: #2e2f42;
 }
 
 .header-logo-color {
@@ -102,6 +103,12 @@ button {
   letter-spacing: 0.04em;
   color: #fff;
 }
+
+.hero-btn:hover,
+.hero-btn:focus {
+  color: #404bbf;
+}
+
 /* ---------------HERO------------- */
 
 /* ---------------BENEFITS------------- */
@@ -204,13 +211,13 @@ button {
   background-color: #2e2f42;
 }
 .footer-logo {
-	font-family: 'Raleway', sans-serif;
-	font-weight: 700;
-font-size: 18px;
-line-height: 1.16667;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-color: color: #4d5ae5;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #f4f4fd;
 }
 
 .footer-logo-color {
